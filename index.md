@@ -7,7 +7,7 @@ title: Student Blog
 ## PEYTON LEIGH'S HOME PAGE!!!
 
 
-## Overview of Hacks, Study and Tangibles
+## This is a test
 Blogging in GitHub pages is a way to learn and code at the same time. 
 
 - Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
